@@ -1,7 +1,7 @@
 
 <?php
 require APPPATH.'libraries/REST_Controller.php';
-class Comx extends REST_Controller 
+class Auth extends REST_Controller 
 {
     public function __construct()
     {
